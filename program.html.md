@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html lang="pl">
-    <head>
-    </head>
-    <body>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>program</title>
+</head>
     <p>Na lekcji TAiSI uczymy się tworzyć strony internetowe za pomocą programu html.</p>
     <p>Podczas lekcji SiSK posługujemy się systemem windows serwer i zapoznajemy się z jego działaniem.</p>
         Na dzisiejsze lekcje TAiSI i SiSK uczęszczją uczniowie szkoły średniej TME.
